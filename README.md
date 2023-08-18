@@ -1,4 +1,2 @@
 This is a test repo
-Hello!
-World
-HI!
+Ice cream
